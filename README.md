@@ -2,7 +2,7 @@
 blog_new  Blog system
 
 SpringBoot 
-一款有深度的博客系统，似 WordPress 专注于博客功能的博客平台。
+一款有深度的博客系统，专注于博客功能的博客平台。
 
 
 
